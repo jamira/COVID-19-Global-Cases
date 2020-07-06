@@ -25,7 +25,7 @@ npm run test
 npm run lint
 ```
 ### Public Domain
-See [Online] (https://covid-19-tracker-78aca.firebaseapp.com/).
+See [Configuration Reference](https://covid-19-tracker-78aca.firebaseapp.com/).
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
